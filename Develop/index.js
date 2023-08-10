@@ -22,8 +22,15 @@ const questions = [
     },
     {
         type: "input",
-        name: "require",
+        name: "installation",
         message: "List any project dependencies here. ",
+        default: "npm i",
+    },
+    {
+        type: "input",
+        name: "test",
+        message: "Demonstrate walkthrough of required tests if applicable. ",
+        default: "npm test",
     },
     {
         type: "input",
@@ -49,11 +56,6 @@ const questions = [
         type: "input",
         name: "contributers",
         message: "Please list any contributors GitHub username. ",
-    },
-    {
-        type: "input",
-        name: "test",
-        message: "Demonstrate walkthrough of required tests if applicable. ",
     },
 ];   
 

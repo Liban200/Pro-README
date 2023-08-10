@@ -57,7 +57,7 @@ ${data.installation}
   To run tests, run the following command:
 
 \`\`\`
-  ${data.tests}
+  ${data.test}
 \`\`\`
 
 

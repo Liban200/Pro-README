@@ -6,7 +6,7 @@
 
 
   ## Usage
-  JS MySQL HTML CSS APIs.
+  JS MySQL HTML CSS API
 
   ## License 
  Licensed under the none license.
